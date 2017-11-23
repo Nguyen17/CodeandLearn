@@ -1,6 +1,48 @@
 // Place all the styles related to the HomePage controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+/* Nav*/
 .navbar{
-    background-color: #3FDBC6;
+    // background-color: #3FDBC6;
+    
+    width: 100%;
+    background-color: transparent;
+    padding: 40px;
+
 }
+.navbar a{
+    color: white;
+}
+
+
+/* Hero Content*/
+.jumbotron{
+    position: relative;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    height: 40vh; 
+    justify-content: center;
+    align-items: center;
+  
+    background-color: transparent;
+}
+.jumbotron h1{
+    color: white;
+}
+.jumbotron p {
+    color: white;
+}
+.background{
+
+ position: absolute;
+  height:100%;
+   width:100%;
+    overflow: hidden;
+    z-index: -999;
+}
+
+
+
