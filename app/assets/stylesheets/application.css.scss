@@ -15,5 +15,12 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+
+// External Styles
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans|Roboto');
+
+
+// Template & Custom Styles
 @import 'custom';
 @import 'home_page'

@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'faq/questions'
+
   get 'getting_started/getting_started'
 
   root 'home_page#home'

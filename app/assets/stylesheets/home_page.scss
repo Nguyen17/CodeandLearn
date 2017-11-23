@@ -6,10 +6,14 @@
 /* Nav*/
 .navbar{
     // background-color: #3FDBC6;
+
     
     width: 100%;
-    background-color: transparent;
+    background-color: #fff;
     padding: 40px;
+    font-family: 'Raleway';
+    border: none;
+    z-index:999;
 
 }
 .navbar a{
@@ -23,7 +27,7 @@
     margin: 40px;
     display: flex;
     flex-direction: column;
-    height: 40vh; 
+    height: 60vh; 
     justify-content: center;
     align-items: center;
   
@@ -31,9 +35,12 @@
 }
 .jumbotron h1{
     color: white;
+    font-family: 'Raleway';
+    
 }
 .jumbotron p {
     color: white;
+    font-family: 'Nunito Sans';
 }
 .background{
 
@@ -44,5 +51,16 @@
     z-index: -999;
 }
 
+@media only screen and (max-width: 500px) {
+     .background{
+         display: none;
+       
+     } 
+     .jumbotron{
+           color: black;
+         
+         background-color: #249D94;
+     }
+}
 
 
