@@ -9,7 +9,7 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
    
-    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700"|Oswald|Raleway|Tangerine" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700|Oswald|Raleway|Tangerine" rel="stylesheet">
 
   
   </head>
@@ -34,18 +34,18 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><%=link_to 'FAQ', faq_questions_path%></li>
-        <li><a href="#">Helpful links</a></li>
-        <li><a href="#">Coding Challenges</a></li>
+        <li><%=link_to 'Helpful links', helpful_links_links_path%></li>
+        <li><%=link_to 'Coding Challenges', coding_challenges_challenges_path%></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programming Languages<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">HTML/CSS</a></li>
-            <li><a href="#">JavaScript</a></li>
-            <li><a href="#">Ruby</a></li>
-            <li><a href="#">Python</a></li>
+            <li><%=link_to 'Html / CSS', languages_html_css_path%></li>
+            <li><%=link_to 'JavaScript', languages_javascript_path%></li>
+            <li><%=link_to 'Ruby', languages_ruby_path%></li>
+            <li><%=link_to 'Python', languages_python_path%></li>
             <li role="separator" class="divider"></li>
-            <li><a href="#">C/C++</a></li>
-            <li><a href="#">Java</a></li>
+            <li><%=link_to 'C / C++', languages_cpp_path%></li>
+            <li><%=link_to 'Java', languages_python_path%></li>
             
             
             <!--<li role="separator" class="divider"></li>-->

@@ -1,4 +1,16 @@
 Rails.application.routes.draw do
+  get 'languages/html-css'
+
+  get 'languages/javascript'
+
+  get 'languages/ruby'
+
+  get 'languages/python'
+
+  get 'languages/cpp'
+
+  get 'languages/java'
+
   get 'coding_challenges/challenges'
 
   get 'helpful_links/links'
