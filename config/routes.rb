@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'coding_challenges/challenges'
+
+  get 'helpful_links/links'
+
   get 'faq/questions'
 
   get 'getting_started/getting_started'

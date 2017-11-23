@@ -1,3 +1,41 @@
 // Place all the styles related to the GettingStarted controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.getting-started-jumbotron{
+    text-align: center;
+    color: black;
+    
+    h1{
+         font-size: 72px;
+    }
+   
+}
+.getting-started-content {
+    
+    padding: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    // Typography
+    line-height: 1.5;
+    p{
+        font-size: 21px;
+        font-family: "Nunito Sans";
+        
+    }
+    
+}
+
+.resources ul li a {
+    font-size: 17px;
+
+}
+
+
+
+@media only screen and (max-width: 500px){
+    .getting-started-content{
+        margin-left: 2%;
+        margin-right: 2%;
+        line-height: 1.7;
+    }
+}
