@@ -17,6 +17,10 @@
 
 
 //= require jquery
+//= require turbolinks
 //= require bootstrap-sprockets
 //= require masonry/jquery.masonry
+$(document).ready(function(){
+    $('.dropdown-toggle').dropdown();
+});
 
