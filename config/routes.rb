@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'mooc/education'
+
   get 'explore/explore'
 
   get 'languages/html-css'
