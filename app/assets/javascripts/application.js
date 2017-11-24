@@ -11,16 +11,11 @@
 // about supported directives.
 //
 //= require rails-ujs
-
-//= require_tree .
-
-
-//= require turbolinks
 //= require jquery
-
-
 //= require masonry/jquery.masonry
 //= require bootstrap
+//= require turbolinks
+//= require_tree .
 $(document).ready(function(){
     $('.dropdown-toggle').dropdown();
 });
