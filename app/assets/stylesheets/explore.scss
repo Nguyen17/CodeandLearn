@@ -1,0 +1,36 @@
+// Place all the styles related to the Explore controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.grid-wrapper{
+    display: flex;
+
+    justify-content: center;
+    align-content: center;
+}
+a{
+    margin-bottom: 20px;
+}
+img{
+    
+    margin-bottom: 20px;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+.centered{ margin: 0 auto; }
+
+@media only screen and (max-width: 500px){
+    #masonary-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        
+
+    
+ 
+        
+    }
+}

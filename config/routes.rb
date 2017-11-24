@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'explore/explore'
+
   get 'languages/html-css'
 
   get 'languages/javascript'
