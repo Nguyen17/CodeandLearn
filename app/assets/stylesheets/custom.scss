@@ -1,4 +1,10 @@
 /* General */
+*{
+    font-kerning: auto;
+}
+.align-left{
+    text-align: left;
+}
 
 video{
      width: 100%;
@@ -7,6 +13,22 @@ video{
   
 }
 
+.navbar{
+    border-top: 10px solid #b2ebf2;
+    // position: fixed;
+    padding: 20px;
+}
+
+.jumbotron{
+    background-color: #00bcd4;
+    
+}
+
+.btn-primary{
+    background-color: #03a9f4;
+    outline: none;
+    border: none;
+}
 
 
 /* Grid Layout*/
@@ -31,10 +53,18 @@ video{
 
 }
 .grid-item{
-    border-radius: 40px;
+    border: 2px solid;
+    border-color: #757575;
     width: 346px;
     height: 360px;
     margin-left: 10px;
     margin-top: 10px;
     
 }
+.grid-item a{
+    font-family: 'Raleway';
+    font-size: 2.625rem;
+}
+
+
+

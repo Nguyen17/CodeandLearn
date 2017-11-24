@@ -15,6 +15,8 @@
   </head>
 
   <body>
+    <!--Top Page border-->
+  
     <!--Navigation-->
     <nav class="navbar navbar-default">
   <div class="container-fluid">
@@ -31,7 +33,7 @@
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div class="collapse navbar-collapse link_underline" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><%=link_to 'FAQ', faq_questions_path%></li>
         <li><%=link_to 'Helpful links', helpful_links_links_path%></li>
@@ -45,7 +47,7 @@
             <li><%=link_to 'Python', languages_python_path%></li>
             <li role="separator" class="divider"></li>
             <li><%=link_to 'C / C++', languages_cpp_path%></li>
-            <li><%=link_to 'Java', languages_python_path%></li>
+            <li><%=link_to 'Java', languages_java_path%></li>
             
             
             <!--<li role="separator" class="divider"></li>-->
@@ -82,7 +84,7 @@
     </div>
      <%= yield %>
     
-
+  
 
   </body>
 </html>

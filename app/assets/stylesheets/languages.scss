@@ -1,3 +1,46 @@
 // Place all the styles related to the Languages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.resource-template{
+    text-align: center;
+       h1{
+         font-size: 72px;
+         font-family: 'Nunito Sans';
+         font-weight: 700;
+    }
+}
+.split-wrapper{
+  
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+
+    border-left: 1px solid lightgrey;
+}
+.split-view-1{
+    text-align: center;
+    flex-grow: 1;
+ 
+}
+.split-view-2{
+    text-align: center;
+    flex-grow: 4;
+  
+}
+
+
+// @media only screen and (max-width: 500px){
+//     .split-wrapper{
+//         flex-direction: column;
+        
+//     }
+//     .split-view-1{
+//         display: block;
+//         border-right: none;
+//         border-bottom: 1px solid #555;
+//     }
+//     .split-view-2{
+//         display: block;
+//     }
+// }

@@ -48,13 +48,14 @@
 }
 /* Grid Item Link*/
 .grid-item a{
-    color: #fff;
+    color: #000;
 }
 
 
 /* Grid Item Background Color*/
-.grid-item:nth-of-type(1){
+/*.grid-item:nth-of-type(1){
     background-color: #EC9DED;
+
 }
 .grid-item:nth-of-type(2){
     background-color: #6D72C3;
@@ -71,6 +72,14 @@
 .grid-item:nth-of-type(6){
     background-color: #F5CCE8;
 }
+.grid-item{
+    background-color: white;
+    border: 3px solid black;
+    a{
+        color: black;
+    }    
+}
+*/
 
 @media only screen and (max-width: 500px) {
    .grid-content{
