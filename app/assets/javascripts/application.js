@@ -17,6 +17,6 @@
 
 
 //= require jquery
-//= require bootstrap
+//= require bootstrap-sprockets
 //= require masonry/jquery.masonry
 
