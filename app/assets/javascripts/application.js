@@ -15,4 +15,5 @@
 //= require_tree .
 //= require jquery
 //= require masonry/jquery.masonry
+//= require bootstrap
 //= require bootstrap-sprockets
