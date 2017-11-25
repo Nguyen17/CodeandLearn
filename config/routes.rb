@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'playground/index'
+  
   get 'mooc/education'
 
   get 'explore/explore'
