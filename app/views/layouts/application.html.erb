@@ -8,7 +8,10 @@
   
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-   
+     
+     <!--Devicons-->
+     <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+     <!--Google Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700|Oswald|Raleway|Tangerine" rel="stylesheet">
 
   
@@ -35,9 +38,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse link_underline" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <!--<li><%=link_to 'FAQ', faq_questions_path%></li>-->
-        <li><%=link_to 'MOOCs', mooc_education_path%></li>
         
+        <li><%=link_to 'MOOCs', mooc_education_path%></li>
         <li><%=link_to 'Helpful links', helpful_links_links_path%></li>
         <li><%=link_to 'Coding Challenges', coding_challenges_challenges_path%></li>
         <li class="dropdown">
@@ -47,7 +49,6 @@
             <li><%=link_to 'JavaScript', languages_javascript_path%></li>
             <li><%=link_to 'Ruby', languages_ruby_path%></li>
             <li><%=link_to 'Python', languages_python_path%></li>
-            <!--<li role="separator" class="divider"></li>-->
             <li><%=link_to 'C / C++', languages_cpp_path%></li>
             <li><%=link_to 'Java', languages_java_path%></li>
             
@@ -60,21 +61,10 @@
      
       <ul class="nav navbar-nav navbar-right">
         <li><%=link_to 'Explore',explore_explore_path%></li>
-         <li><%=link_to 'Playground', playground_index_path%></li>
-          <!--<li><a href="#">Blog</a></li>-->
+        <li><%=link_to 'Playground', playground_index_path%></li>
         <li><a href="#">Contribute</a></li>
-         <li><a href="#">Github</a></li>
+        <li><a href="#">Github</a></li>
        
-        <!--<li class="dropdown">-->
-        <!--  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>-->
-        <!--  <ul class="dropdown-menu">-->
-        <!--    <li><a href="#">Action</a></li>-->
-        <!--    <li><a href="#">Another action</a></li>-->
-        <!--    <li><a href="#">Something else here</a></li>-->
-        <!--    <li role="separator" class="divider"></li>-->
-        <!--    <li><a href="#">Separated link</a></li>-->
-        <!--  </ul>-->
-        <!--</li>-->
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

@@ -51,6 +51,11 @@
     z-index: -999;
 }
 
+/* SVG Icon*/
+.grid-item svg{
+    height: 82px;
+}
+
 @media only screen and (max-width: 500px) {
      .background{
          display: none;
