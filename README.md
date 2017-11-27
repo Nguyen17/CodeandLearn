@@ -50,6 +50,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [CSS Basics](http://www.cssbasics.com/)
 
 ## JavaScript
+*[Back to top](#code-and-learn)*
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -64,6 +65,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## Ruby
+*[Back to top](#code-and-learn)*
 
 
 
@@ -78,6 +80,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## Python
+*[Back to top](#code-and-learn)*
 
 
 
@@ -94,6 +97,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## C / C++
+*[Back to top](#code-and-learn)*
 
 
 
@@ -105,6 +109,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## Java
+*[Back to top](#code-and-learn)*
 
 
 
@@ -116,6 +121,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## Java
+*[Back to top](#code-and-learn)*
 
 
 
@@ -128,7 +134,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## Helpful Links
-
+*[Back to top](#code-and-learn)*
 
 * [Github Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Programming Motherfucker](http://programming-motherfucker.com/become.html)
@@ -141,7 +147,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [600+ Courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
 
 ## Reddit Subreddits
-
+*[Back to top](#code-and-learn)*
 
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 * [/r/programming](https://www.reddit.com/r/programming/)
@@ -151,7 +157,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [/r/web_design](https://www.reddit.com/r/web_design/)
 
 ## Youtube Channels
-
+*[Back to top](#code-and-learn)*
 
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
