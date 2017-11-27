@@ -15,6 +15,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
     - [MOOCS](#moocs)
     - [Reddit Subreddits](#reddit-subreddits)
     - [Youtube Channels](#youtube-channels)
+- [Installation](#installation)
 
 - - -
 
@@ -181,4 +182,37 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Jamie King](https://www.youtube.com/channel/UCda_RJU9-xB0Hswcrjn4SKw)
 * [Jake Day Williams](https://www.youtube.com/user/JakeDayWilliams/featured)
 * [Brad Hussey](https://www.youtube.com/user/hussey17)
+
+# Installation
+* Check that ruby is already installed in your system
+
+ 
+```
+$ ruby -v
+```
+
+* Follow this [guide](http://installrails.com/steps/railsinstaller_windows), I feel it explain things a lot better than I can.
+
+* Afterwards, go to where you have download or forked this project
+
+```
+cd 'place where you put this project in'
+
+```
+
+Then run
+
+```
+rails server
+
+```
+
+* If you have trouble refer to these links to help with setting up rails
+    - go to [Section 1.3.2](https://www.railstutorial.org/book/beginning) of Michael Hartl's book
+    - [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+    
+Thanks!
+[@nguyen17](https://github.com/Nguyen17)
+    
+
 
