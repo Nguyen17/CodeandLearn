@@ -36,7 +36,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 ## CSS
-
+*[Back to top](#code-and-learn)*
 
 * [Marksheet](http://marksheet.io/)
 * [CSS Tricks](https://css-tricks.com/)
