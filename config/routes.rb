@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'contribute/howto'
+
   get 'playground/index'
   
   get 'mooc/education'
