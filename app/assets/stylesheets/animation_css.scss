@@ -1,3 +1,8 @@
+
+
+$link_underline_color: orange; 
+
+
 .link_underline a:before {
   content: "";
   position: absolute;
@@ -5,7 +10,7 @@
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: $link_underline_color;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
