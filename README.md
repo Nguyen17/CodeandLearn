@@ -15,7 +15,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
     - [MOOCS](#moocs)
     - [Reddit Subreddits](#reddit-subreddits)
     - [Youtube Channels](#youtube-channels)
-- [Installation](#installation)
+- [Installation of This Project](#installation)
 
 - - -
 
