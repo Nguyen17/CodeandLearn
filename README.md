@@ -4,17 +4,17 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 
 - [Code and Learn](#Code-and-Learn)
-    - [HTML](#HTML)
-    - [CSS](#CSS)
-    - [JavaScript](#JavaScript)
-    - [Ruby](#Ruby)
-    - [Python](#Python)
-    - [C / C++](#Cpp)
-    - [Java](#Java)
-    - [Helpful Links](#Helpful-links)
-    - [MOOCS](#MOOCS)
-    - [Reddit Subreddits](#Reddit-Subreddits)
-    - [Youtube Channels](#Youtube-Channels)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [Ruby](#ruby)
+    - [Python](#python)
+    - [C / C++](#cpp)
+    - [Java](#java)
+    - [Helpful Links](#helpful-links)
+    - [MOOCS](#moocs)
+    - [Reddit Subreddits](#reddit-subreddits)
+    - [Youtube Channels](#youtube-channels)
 
 - - -
 
