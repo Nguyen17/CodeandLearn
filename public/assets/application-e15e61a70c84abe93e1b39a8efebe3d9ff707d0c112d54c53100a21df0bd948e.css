@@ -1,4 +1,4 @@
-/* line 1, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/animation_css.scss */
+/* line 6, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/animation_css.scss */
 .link_underline a:before {
   content: "";
   position: absolute;
@@ -6,7 +6,7 @@
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: orange;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -14,7 +14,7 @@
   transition: all 0.3s ease-in-out 0s;
 }
 
-/* line 16, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/animation_css.scss */
+/* line 21, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/animation_css.scss */
 .link_underline a:hover:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
@@ -26,43 +26,44 @@
   font-kerning: auto;
 }
 
-/* line 6, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* Main Layouts*/
+/* line 9, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .resources a {
   font-size: 22px !important;
 }
 
-/* line 9, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 12, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .align-left {
   text-align: left;
 }
 
-/* line 13, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 16, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 video {
   width: 100%;
   height: auto;
   object-fit: cover;
 }
 
-/* line 20, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 23, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .navbar {
   border-top: 10px solid #b2ebf2;
   padding: 20px;
 }
 
-/* line 26, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 28, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .jumbotron {
   background-color: #00bcd4;
 }
 
-/* line 31, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 33, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .btn-primary {
-  background-color: #03a9f4;
+  background-color: #2C446E;
   outline: none;
   border: none;
 }
 
 /* Grid Layout*/
-/* line 39, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 41, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-container {
   display: flex;
   justify-content: center;
@@ -70,27 +71,30 @@ video {
   width: 100%;
 }
 
-/* line 46, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 48, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-content {
   display: grid;
   grid-template-columns: 500px 500px 500px;
   grid-gap: 10px;
 }
 
-/* line 59, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 55, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-item {
-  border: 2px solid;
-  border-color: #757575;
   width: 346px;
   height: 360px;
   margin-left: 10px;
   margin-top: 10px;
 }
 
-/* line 68, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 63, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-item a {
   font-family: 'Raleway';
   font-size: 2.625rem;
+}
+
+/* line 70, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+.grid-item svg:hover {
+  opacity: 0.7;
 }
 /* line 4, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/explore.scss */
 .grid-wrapper {
@@ -158,20 +162,25 @@ img {
   margin-right: 20%;
   line-height: 1.5;
 }
-/* line 25, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
+/* line 26, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
 .getting-started-content p {
   font-size: 21px;
   font-family: "Nunito Sans";
   font-weight: 200;
 }
 
-/* line 34, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
+/* line 35, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
+.resources ul li {
+  list-style: none;
+}
+
+/* line 40, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
 .resources ul li a {
   font-size: 17px;
 }
 
 @media only screen and (max-width: 500px) {
-  /* line 42, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
+  /* line 48, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/getting_started.scss */
   .getting-started-content {
     margin-left: 2%;
     margin-right: 2%;
@@ -187,14 +196,14 @@ img {
   width: 90%;
 }
 
-/* line 13, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+/* line 11, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
 .grid-content {
   display: grid;
   grid-template-columns: 300px 300px 300px !important;
   grid-gap: 10px;
 }
 
-/* line 26, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+/* line 18, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
 .grid-item {
   width: 270px !important;
   height: 246px !important;
@@ -202,14 +211,14 @@ img {
   margin-top: 10px;
 }
 
-/* line 35, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+/* line 27, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
 .grid-item {
   position: relative;
   display: flex;
   justify-content: center;
   align-content: center;
 }
-/* line 40, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+/* line 32, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
 .grid-item h2 {
   position: absolute;
   top: 50%;
@@ -220,47 +229,19 @@ img {
 }
 
 /* Grid Item Link*/
-/* line 51, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+/* line 43, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
 .grid-item a {
   color: #000;
 }
 
-/* Grid Item Background Color*/
-/*.grid-item:nth-of-type(1){
-    background-color: #EC9DED;
-
-}
-.grid-item:nth-of-type(2){
-    background-color: #6D72C3;
-}
-.grid-item:nth-of-type(3){
-    background-color: #5941A9;
-}
-.grid-item:nth-of-type(4){
-    background-color: #9DC0BC;
-}
-.grid-item:nth-of-type(5){
-    background-color: #75DBCD;
-}
-.grid-item:nth-of-type(6){
-    background-color: #F5CCE8;
-}
-.grid-item{
-    background-color: white;
-    border: 3px solid black;
-    a{
-        color: black;
-    }    
-}
-*/
 @media only screen and (max-width: 500px) {
-  /* line 86, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+  /* line 49, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
   .grid-content {
     display: flex !important;
     flex-direction: column;
   }
 
-  /* line 90, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
+  /* line 53, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/grid-content.scss */
   .grid-item {
     width: 370px !important;
     height: 346px !important;
@@ -277,9 +258,10 @@ img {
   z-index: 999;
 }
 
-/* line 20, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+/* line 18, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
 .navbar a {
   color: white;
+  font-size: 1.6rem;
 }
 
 /* Hero Content*/
@@ -316,13 +298,19 @@ img {
   z-index: -999;
 }
 
+/* SVG Icon*/
+/* line 56, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+.grid-item svg {
+  height: 82px;
+}
+
 @media only screen and (max-width: 500px) {
-  /* line 56, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+  /* line 61, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
   .background {
     display: none;
   }
 
-  /* line 60, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+  /* line 65, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
   .jumbotron {
     color: black;
     background-color: #249D94;
@@ -366,6 +354,10 @@ img {
   flex-direction: column;
   justify-content: center;
   align-content: center;
+}
+/* line 4, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/playground.scss */
+#playground-title {
+  font-size: 54px;
 }
 @charset "UTF-8";
 /*
@@ -9175,9 +9167,10 @@ button.close {
   z-index: 999;
 }
 
-/* line 19, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+/* line 17, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
 .navbar a {
   color: white;
+  font-size: 1.6rem;
 }
 
 /* Hero Content*/
@@ -9214,13 +9207,19 @@ button.close {
   z-index: -999;
 }
 
+/* SVG Icon*/
+/* line 55, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+.grid-item svg {
+  height: 82px;
+}
+
 @media only screen and (max-width: 500px) {
-  /* line 55, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+  /* line 60, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
   .background {
     display: none;
   }
 
-  /* line 59, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
+  /* line 64, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/home_page.scss */
   .jumbotron {
     color: black;
     background-color: #249D94;
@@ -9232,43 +9231,44 @@ button.close {
   font-kerning: auto;
 }
 
-/* line 5, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* Main Layouts*/
+/* line 8, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .resources a {
   font-size: 22px !important;
 }
 
-/* line 8, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 11, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .align-left {
   text-align: left;
 }
 
-/* line 12, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 15, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 video {
   width: 100%;
   height: auto;
   object-fit: cover;
 }
 
-/* line 19, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 22, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .navbar {
   border-top: 10px solid #b2ebf2;
   padding: 20px;
 }
 
-/* line 25, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 27, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .jumbotron {
   background-color: #00bcd4;
 }
 
-/* line 30, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 32, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .btn-primary {
-  background-color: #03a9f4;
+  background-color: #2C446E;
   outline: none;
   border: none;
 }
 
 /* Grid Layout*/
-/* line 38, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 40, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-container {
   display: flex;
   justify-content: center;
@@ -9276,25 +9276,28 @@ video {
   width: 100%;
 }
 
-/* line 45, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 47, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-content {
   display: grid;
   grid-template-columns: 500px 500px 500px;
   grid-gap: 10px;
 }
 
-/* line 58, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 54, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-item {
-  border: 2px solid;
-  border-color: #757575;
   width: 346px;
   height: 360px;
   margin-left: 10px;
   margin-top: 10px;
 }
 
-/* line 67, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+/* line 62, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
 .grid-item a {
   font-family: 'Raleway';
   font-size: 2.625rem;
+}
+
+/* line 69, /home/ubuntu/workspace/HelloCode/app/assets/stylesheets/custom.scss */
+.grid-item svg:hover {
+  opacity: 0.7;
 }
