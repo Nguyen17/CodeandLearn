@@ -16,6 +16,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
     - [Reddit Subreddits](#reddit-subreddits)
     - [Youtube Channels](#youtube-channels)
 - [Installation of This Project](#installation)
+- [Contribution](#contribution)
 
 - - -
 
@@ -210,7 +211,9 @@ rails server
 * If you have trouble refer to these links to help with setting up rails
     - go to [Section 1.3.2](https://www.railstutorial.org/book/beginning) of Michael Hartl's book
     - [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
-    
+# Contribution
+To contribute to the project please read the [CONTRIBUTING](https://github.com/Nguyen17/CodeandLearn/blob/master/CONTRIBUTING.md) file.
+
 Thanks!
 [@nguyen17](https://github.com/Nguyen17)
     
