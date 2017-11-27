@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'kids/resources'
+
   get 'contribute/howto'
 
   get 'playground/index'
