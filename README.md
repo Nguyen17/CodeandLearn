@@ -111,18 +111,6 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Cpp Introduction - Code Dope](https://www.codesdope.com/cpp-introduction/)
 
 
-## Kids Code
-*[Back to top](#code-and-learn)*
-
-* [Scratch - MIT](https://scratch.mit.edu/)
-* [CodeOrg Hour of Cod](https://code.org/learn)
-* [Tynker Hour of Code](https://www.tynker.com/hour-of-code/)
-* [Disney Hour of Code](http://partners.disney.com/hour-of-code) 
-* [Rasberry Pi](https://www.raspberrypi.org/resources/)
-* [TechRocket Coding](https://www.techrocket.com/coding)
-* [Code Monster](http://www.crunchzilla.com/code-monster)
-
-
 ## Java
 *[Back to top](#code-and-learn)*
 
@@ -133,6 +121,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Java - Cave of Programming](https://courses.caveofprogramming.com/p/java-for-complete-beginners)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/) 
 * [Java Youtube Playlist - Derek Banas](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+
 
 
 
@@ -148,6 +137,20 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Bachelor's Level](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 * [OSSU Computer Science](https://github.com/ossu/computer-science)
 * [600+ Courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
+
+
+
+## Kids Code
+*[Back to top](#code-and-learn)*
+
+* [Scratch - MIT](https://scratch.mit.edu/)
+* [CodeOrg Hour of Cod](https://code.org/learn)
+* [Tynker Hour of Code](https://www.tynker.com/hour-of-code/)
+* [Disney Hour of Code](http://partners.disney.com/hour-of-code) 
+* [Rasberry Pi](https://www.raspberrypi.org/resources/)
+* [TechRocket Coding](https://www.techrocket.com/coding)
+* [Code Monster](http://www.crunchzilla.com/code-monster)
+
 
 ## Reddit Subreddits
 *[Back to top](#code-and-learn)*
