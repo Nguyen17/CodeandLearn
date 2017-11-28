@@ -13,6 +13,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
     - [Java](#java)
     - [Helpful Links](#helpful-links)
     - [MOOCS](#moocs)
+    - [Kids code](#kids-code)
     - [Reddit Subreddits](#reddit-subreddits)
     - [Youtube Channels](#youtube-channels)
 - [Installation of This Project](#installation)
@@ -110,16 +111,16 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Cpp Introduction - Code Dope](https://www.codesdope.com/cpp-introduction/)
 
 
-## Java
+## Kids Code
 *[Back to top](#code-and-learn)*
 
-
-
-* [Java Tutorial](http://www.wideskills.com/java-tutorial)
-* [Java - Study Tonight](http://www.studytonight.com/java/)
-* [Java - Cave of Programming](https://courses.caveofprogramming.com/p/java-for-complete-beginners)
-* [Thinking in Java](http://www.mindview.net/Books/TIJ/) 
-* [Java Youtube Playlist - Derek Banas](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
+* [Scratch - MIT](https://scratch.mit.edu/)
+* [CodeOrg Hour of Cod](https://code.org/learn)
+* [Tynker Hour of Code](https://www.tynker.com/hour-of-code/)
+* [Disney Hour of Code](http://partners.disney.com/hour-of-code) 
+* [Rasberry Pi](https://www.raspberrypi.org/resources/)
+* [TechRocket Coding](https://www.techrocket.com/coding)
+* [Code Monster](http://www.crunchzilla.com/code-monster)
 
 
 ## Java
