@@ -139,7 +139,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [600+ Courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
 
 
-## moocs
+## MOOCS
 *[Back to top](#code-and-learn)*
 
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
