@@ -139,6 +139,22 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [600+ Courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
 
 
+## moocs
+*[Back to top](#code-and-learn)*
+
+* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+* [Edx](https://www.edx.org/)
+* [Coursera](https://www.coursera.org/)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
+* [Bento](https://bento.io/)
+
+* [Code Academy](https://www.codecademy.com/)
+* [Code School](https://www.codeschool.com/)
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [Data Camp](https://www.datacamp.com/)
+* [Data Ques](https://www.dataquest.io/)
+
 
 ## Kids Code
 *[Back to top](#code-and-learn)*
