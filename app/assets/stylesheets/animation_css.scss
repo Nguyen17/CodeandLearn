@@ -1,8 +1,26 @@
-
+/* Animation CSS Variables */
 
 $link_underline_color: orange; 
 
 
+
+
+/* Navigation Animations */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Link Animations*/
 .link_underline a:before {
   content: "";
   position: absolute;
@@ -23,3 +41,5 @@ $link_underline_color: orange;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
+
+
