@@ -9,7 +9,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
     - [JavaScript](#javascript)
     - [Ruby](#ruby)
     - [Python](#python)
-    - [C / C++](#cpp)
+    - [C/C++](#cpp)
     - [Java](#java)
     - [Helpful Links](#helpful-links)
     - [MOOCS](#moocs)
@@ -78,6 +78,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Ruby Monk](https://www.rubymonk.com/)
 * [Learn Ruby](https://www.learnrubyonline.org/) 
 * [Learn to Program](https://pine.fm/LearnToProgram/)
+* [Zetcode Ruby Tutorial](http://zetcode.com/lang/rubytutorial/)
 * [Ruby Essentials](http://www.techotopia.com/index.php/Ruby_Essentials) 
 * [Poignant Guide to Ruby](http://poignant.guide/book/)
 
@@ -99,7 +100,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Python Tutorials - Guru](https://www.guru99.com/python-tutorials.html)
 
 
-## C / C++
+## C/C++
 *[Back to top](#code-and-learn)*
 
 
