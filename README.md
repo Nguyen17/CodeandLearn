@@ -1,3 +1,4 @@
+![codeandlearnbg](https://user-images.githubusercontent.com/17789092/34081985-279aa93a-e30b-11e7-8371-a4481bfb55aa.png)
 # Code and Learn
 
 A Ruby on Rails project providing a curated list of resources for beginners.
