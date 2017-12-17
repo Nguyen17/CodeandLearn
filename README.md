@@ -31,7 +31,6 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [W3Schools HTML Element Reference](https://www.w3schools.com/tags/default.asp) 
 * [W3 HTML](https://www.w3.org/TR/html5/) 
 * [Learn HTML and CSS Shaw](https://learn.shayhowe.com/html-css/) 
-* [The Odin Project](https://www.theodinproject.com/home)
 * [HTML Dog](http://www.htmldog.com/) 
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5) 
 * [Learn HTML and CSS in 14 days](https://ilovecoding.org/courses/learn-html-css-in-14-days) 
@@ -150,6 +149,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
 * [Bento](https://bento.io/)
+* [The Odin Project](https://www.theodinproject.com/home)
 
 * [Code Academy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
