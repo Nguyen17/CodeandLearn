@@ -1,22 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MLNWCKP');</script>
-<!-- End Google Tag Manager -->
+
     <title>Code and Learn</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <%= csrf_meta_tags %>
     <%= metamagic %>
 
-  
+
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-     
+
      <!--Magic CSS Animation-->
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magic/1.1.0/magic.min.css" />
      <!--Devicons-->
@@ -24,16 +18,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <!--Google Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700|Oswald|Raleway|Tangerine" rel="stylesheet">
 
-  
+
   </head>
 
   <body>
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLNWCKP"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
     <!--Top Page border-->
-  
+
     <!--Navigation-->
     <nav class="navbar navbar-default">
   <div class="container-fluid">
@@ -47,7 +38,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </button>
       <!--<a class="navbar-brand" href="#">Brand</a>-->
       <!---->
-      
+
       <a href="/"><svg version="1.1" id="Capa_1" class="navbar-brand" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 511.856 511.856" style="enable-background:new 0 0 511.856 511.856;" xml:space="preserve">
 <g>
@@ -67,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse link_underline" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        
+
         <li><%= link_to 'Getting Started', getting_started_getting_started_path%></li>
         <li><%=link_to 'MOOCs', mooc_education_path%></li>
         <li><%=link_to 'Helpful links', helpful_links_links_path%></li>
@@ -87,24 +78,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </ul>
         </li>
       </ul>
-     
+
       <ul class="nav navbar-nav navbar-right">
         <li><%=link_to 'Explore',explore_explore_path%></li>
         <li><%=link_to 'Contribute', contribute_howto_path%></li>
         <li><a href="https://github.com/Nguyen17/CodeandLearn">Github</a></li>
-       
+
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
 
     <div class="container">
-         
-   
+
+
     </div>
      <%= yield %>
-    
-  
+
+
 
   </body>
 </html>
