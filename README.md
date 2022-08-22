@@ -46,6 +46,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Code My UI](https://codemyui.com/) 
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [CSS Grid Garden](http://cssgridgarden.com/) 
+* [CSS Tutorial](https://www.scaler.com/topics/css/)
 * [Jen Simmons Lab](http://labs.jensimmons.com/)
 * [CSS Layout](http://learnlayout.com/) 
 * [Flexbox Froggy](http://flexboxfroggy.com/)
