@@ -65,6 +65,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [JavaScript Knockout](http://learn.knockoutjs.com/#/?tutorial=intro) 
 * [Javascript 30 Days Challenge](https://javascript30.com/)
+* [Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 
 
 ## Ruby
