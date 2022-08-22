@@ -90,6 +90,8 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/)
 * [Learn Python](https://www.learnpython.org/)
+* [Learn Python Programming](
+https://www.scaler.com/topics/python)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 * [Interactive Python 3](https://snakify.org/) 
 * [Python Microsoft Azure](https://notebooks.azure.com/Microsoft/libraries/samples/html/Introduction%20to%20Python.ipynb)
