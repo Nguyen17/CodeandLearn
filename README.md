@@ -121,6 +121,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Java - Study Tonight](http://www.studytonight.com/java/)
 * [Java - Cave of Programming](https://courses.caveofprogramming.com/p/java-for-complete-beginners)
 * [Thinking in Java](http://www.mindview.net/Books/TIJ/) 
+* [Introduction to Java](https://www.scaler.com/topics/java/introduction-to-java/)
 * [Java Youtube Playlist - Derek Banas](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
 
 
