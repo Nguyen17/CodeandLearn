@@ -33,6 +33,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Learn HTML and CSS Shaw](https://learn.shayhowe.com/html-css/) 
 * [HTML Dog](http://www.htmldog.com/) 
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5) 
+* [HTML Tutorial](https://www.scaler.com/topics/html/)
 * [Learn HTML and CSS in 14 days](https://ilovecoding.org/courses/learn-html-css-in-14-days) 
 * [Dive into HTML5](http://fortuito.us/diveintohtml5/) 
 * [From Zero to Front-end Hero](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-1-7d4f7f0bff02) 
