@@ -98,6 +98,7 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Think Python](http://greenteapress.com/wp/think-python/) 
 * [Python Beginner Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Tutorials - Guru](https://www.guru99.com/python-tutorials.html)
+* [Learn Python in Detail](https://www.scaler.com/topics/python/)
 
 
 ## C/C++
