@@ -138,6 +138,8 @@ A Ruby on Rails project providing a curated list of resources for beginners.
 * [Bachelor's Level](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 * [OSSU Computer Science](https://github.com/ossu/computer-science)
 * [600+ Courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
+* [20 Tutorials on How to Create RESTful APIs](https://blog.rapidapi.com/20-tutorials-on-how-to-create-your-own-api-sorted-by-programming-language/)
+* [API Marketplace](https://market.mashape.com/)
 
 
 ## MOOCS
